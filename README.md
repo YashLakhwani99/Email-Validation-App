@@ -10,28 +10,6 @@ This Flutter app provides a basic functionality to validate email addresses usin
 - Built with Flutter for cross-platform compatibility.
 
 
-## Getting Started
-
-To get started with the app, follow these steps:
-
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-
-   ```
-   git clone <repository_url>
-   ```
-
-2. **Navigate to the Project Directory**: Move into the project directory using the `cd` command:
-
-   ```
-   cd email_validation_app
-   ```
-
-3. **Run the App**: Run the app on an emulator or a physical device using the following command:
-
-   ```
-   flutter run
-   ```
-
 ## Usage
 
 Once the app is running on your device, follow these steps to validate an email address:
