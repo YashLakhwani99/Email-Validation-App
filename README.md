@@ -9,7 +9,11 @@ This Flutter app provides a basic functionality to validate email addresses usin
 - Clean and intuitive user interface.
 - Built with Flutter for cross-platform compatibility.
 
+## Technologies Used
+- Flutter
+- Dart
 
+  
 ## Usage
 
 Once the app is running on your device, follow these steps to validate an email address:
